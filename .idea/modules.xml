@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JUnitTestPerson/JUnitTest.iml" filepath="$PROJECT_DIR$/JUnitTestPerson/JUnitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnitTestProduct/JUnitTestProduct.iml" filepath="$PROJECT_DIR$/JUnitTestProduct/JUnitTestProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnitTestSafeInputObj/JUnitTestSafeInputObj.iml" filepath="$PROJECT_DIR$/JUnitTestSafeInputObj/JUnitTestSafeInputObj.iml" />
       <module fileurl="file://$PROJECT_DIR$/SafeInputTemplate.iml" filepath="$PROJECT_DIR$/SafeInputTemplate.iml" />
     </modules>
   </component>
